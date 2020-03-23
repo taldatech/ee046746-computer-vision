@@ -1,6 +1,8 @@
 # ee046746-computer-vision
 Jupyter Notecbook tutorials for the Technion's EE 046746 Computer Vision course
 
+<img src="https://github.com/taldatech/ee046746-computer-vision/blob/master/assets/tut_track_anim.gif" width="400">
+
 - [ee046746-computer-vision](#ee046746-computer-vision)
   * [Running The Notebooks](#running-the-notebooks)
     + [Running Online](#running-online)
