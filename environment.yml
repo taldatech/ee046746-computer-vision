@@ -1,0 +1,16 @@
+name: torch
+channels:
+  - conda-forge
+  - anaconda
+  - pytorch
+dependencies:
+  - python
+  - numpy
+  - scikit-learn
+  - scipy
+  - seaborn
+  - pytorch
+  - matplotlib
+  - opencv
+  - pip:
+    - torchvision
