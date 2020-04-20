@@ -56,6 +56,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046746_tut_01_2_deep_learning_pytorch_basics.ipynb\pdf`| Deep Learning and PyTorch basics, MNIST, Fashion-MNIST, MULTI-layer Perceptron (MLP), Fully-Connected (FC) |
 |`ee046746_tut_02_03_convolutional_neural_networks.ipynb\pdf`| 2D Convolution (Cross-corelation), Convolution-based Classification, Convolutional Neural Networks (CNNs), Regularization and Overfitting, Dropout, Data Augmentation, CIFAR-10 dataset, Visualizing Filters, The history of CNNs, Applications of CNNs, The problems with CNNs (adversarial attacks, poor generalization, fairness-undesirable biases)  |
 |`ee046746_tut_02_03_appndx_visualizing_cnn_filters.ipynb\pdf`| Appendix - How to visulaize CNN filters and filter activations given image with PyTorch |
+|`ee046746_tut_04_edge_and_line_detection.ipynb\pdf`| Edge and Line detection: Canny, Hough transform, RANSAC, and SCNN |
 
 ## Installation Instructions
 
