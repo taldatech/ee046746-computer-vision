@@ -59,6 +59,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046746_tut_04_edge_and_line_detection.ipynb\pdf`| Edge and Line detection: Canny, Hough transform, RANSAC, and SCNN |
 |`ee046746_tut_05_deep_semantic_segmentation.ipynb\pdf`|Semantic Segmentation, Intersection over Union (IoU), Average Precision (AP), PASCAL Visual Object Classes, Common Objects in COntext (COCO), Fully Convolutional Network (FCN),Up-Convolution / Transposed-Convolution, Skip connections, Pyramid Scene Parsing Network (PSPNet), 1x1 convolution, Mask R-CNN, DeepLab, Atrous convolution, Conditional Random Field (CRF) |
 |`ee046746_tut_06_07_generative_adversarial_networks_gan.ipynb\pdf`| Generative Adversarial Network (GAN), Explicit/Implicit density estimation, Nash Equilibrium, Mode Collapse, Vanisihng/Diminishing Gradient, Conditional GANs, WGAN, EBGAN, BEGAN, Tips for Training GANs, Pix2Pix, CycleGAN|
+|`ee046746_tut_08_alignment.ipynb\pdf`| Homography, Alignment and Panoramas: Parametric transformations, Computing parametric transformation (Affine, Projective), Warping, Blending and Kornia (Transformations in DL)|
 
 ## Installation Instructions
 
@@ -84,4 +85,4 @@ In Windows open `Anaconda Prompt` from the start menu, in Mac/Linux open the ter
 |`pytorch` (gpu)| `conda install pytorch torchvision cudatoolkit=10.0 -c pytorch` |
 
 
-5. To open the notbooks, open Anancinda Navigator or run `jupyter notebook` in the terminal (or `Anaconda Prompt` in Windows) while the `torch` environment is activated.
+5. To open the notbooks, open Ananconda Navigator or run `jupyter notebook` in the terminal (or `Anaconda Prompt` in Windows) while the `torch` environment is activated.
