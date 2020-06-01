@@ -60,6 +60,8 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046746_tut_05_deep_semantic_segmentation.ipynb\pdf`|Semantic Segmentation, Intersection over Union (IoU), Average Precision (AP), PASCAL Visual Object Classes, Common Objects in COntext (COCO), Fully Convolutional Network (FCN),Up-Convolution / Transposed-Convolution, Skip connections, Pyramid Scene Parsing Network (PSPNet), 1x1 convolution, Mask R-CNN, DeepLab, Atrous convolution, Conditional Random Field (CRF) |
 |`ee046746_tut_06_07_generative_adversarial_networks_gan.ipynb\pdf`| Generative Adversarial Network (GAN), Explicit/Implicit density estimation, Nash Equilibrium, Mode Collapse, Vanisihng/Diminishing Gradient, Conditional GANs, WGAN, EBGAN, BEGAN, Tips for Training GANs, Pix2Pix, CycleGAN|
 |`ee046746_tut_08_alignment.ipynb\pdf`| Homography, Alignment and Panoramas: Parametric transformations, Computing parametric transformation (Affine, Projective), Warping, Blending and Kornia (Transformations in DL)|
+|`ee046746_tut_09_3D_Deep_Learning.ipynb\pdf`| Introduction to 3D Deep Learning: Time of flight cameras, 3D Data, 3D Deep Learning, Voxnet, Multi-View, PointNet, PointNet++, 3D Applications|
+
 
 ## Installation Instructions
 
