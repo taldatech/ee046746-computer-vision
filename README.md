@@ -61,6 +61,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046746_tut_06_07_generative_adversarial_networks_gan.ipynb\pdf`| Generative Adversarial Network (GAN), Explicit/Implicit density estimation, Nash Equilibrium, Mode Collapse, Vanisihng/Diminishing Gradient, Conditional GANs, WGAN, EBGAN, BEGAN, Tips for Training GANs, Pix2Pix, CycleGAN|
 |`ee046746_tut_08_alignment.ipynb\pdf`| Homography, Alignment and Panoramas: Parametric transformations, Computing parametric transformation (Affine, Projective), Warping, Blending and Kornia (Transformations in DL)|
 |`ee046746_tut_09_3D_Deep_Learning.ipynb\pdf`| Introduction to 3D Deep Learning: Time of flight cameras, 3D Data, 3D Deep Learning, Voxnet, Multi-View, PointNet, PointNet++, 3D Applications|
+|`ee046746_tut_11_deep_object_detection.ipynb\pdf`|Deep Object Detection, Localization, Sliding Windows, IoU, AP, Region-based Convolutional Neural Networks (R-CNN) Family, Fast/er R-CNN, Selective Search, Non-Maximum Supression (NMS), Region of Interest Pooling Layer (RoI), Region Proposal Network (RPN), Anchor boxes, Detectron2, You Only Look Once (YOLO) Family, YOLO V1-V4, Single Shot Multibox Detection (SSD)|
 
 
 ## Installation Instructions
