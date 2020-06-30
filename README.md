@@ -62,6 +62,8 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046746_tut_08_alignment.ipynb\pdf`| Homography, Alignment and Panoramas: Parametric transformations, Computing parametric transformation (Affine, Projective), Warping, Blending and Kornia (Transformations in DL)|
 |`ee046746_tut_09_3D_Deep_Learning.ipynb\pdf`| Introduction to 3D Deep Learning: Time of flight cameras, 3D Data, 3D Deep Learning, Voxnet, Multi-View, PointNet, PointNet++, 3D Applications|
 |`ee046746_tut_11_deep_object_detection.ipynb\pdf`|Deep Object Detection, Localization, Sliding Windows, IoU, AP, Region-based Convolutional Neural Networks (R-CNN) Family, Fast/er R-CNN, Selective Search, Non-Maximum Supression (NMS), Region of Interest Pooling Layer (RoI), Region Proposal Network (RPN), Anchor boxes, Detectron2, You Only Look Once (YOLO) Family, YOLO V1-V4, Single Shot Multibox Detection (SSD)|
+|`ee046746_tut_12_tracking.ipynb\pdf`|Tracking and Tracking Challenges, Kalman Filter|
+|`ee046746_tut_13_deep_object_tracking.ipynb\pdf`|Object Detection vs Object Tracking, Detection Failure Cases, Motion Model, Visual Appearance Model, Detection-Based Vs. Detection-Free, Offline Vs. Online Tracking, Generic Object Tracking Using Regression Networks (GOTURN), Multi-Domain Convolutional Neural Network Tracker (MDNet), Deep Simple Online and Realtime Tracking (Deep SORT)|
 
 
 ## Installation Instructions
