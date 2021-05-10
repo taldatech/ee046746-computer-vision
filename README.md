@@ -45,6 +45,7 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`ee046746_tut_03_04_appndx_visualizing_cnn_filters.ipynb\pdf`| Appendix - How to visualize CNN filters and filter activations given image with PyTorch |
 |`ee046746_tut_05_deep_semantic_segmentation.ipynb\pdf`| Semantic Segmentation, Intersection over Union (IoU), Average Precision (AP), PASCAL Visual Object Classes, Common Objects in COntext (COCO), Fully Convolutional Network (FCN),Up-Convolution / Transposed-Convolution, Skip connections, Pyramid Scene Parsing Network (PSPNet), 1x1 convolution, Mask R-CNN, DeepLab, Atrous convolution, Conditional Random Field (CRF) |
 |`ee046746_tut_06_generative_adversarial_networks_gan.ipynb\pdf`| Generative Adversarial Network (GAN), Explicit/Implicit density estimation, Nash Equilibrium, Mode Collapse, Vanishing/Diminishing Gradient, Conditional GANs, WGAN, EBGAN, BEGAN, Tips for Training GANs, Pix2Pix, CycleGAN |
+|`ee046746_tut_07_alignment.ipynb\pdf`| Feature Matching, Parametric Transformations, Image Warping, Image Blending, Panorama Stitching, Kornia |
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
