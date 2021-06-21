@@ -51,6 +51,7 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`ee046746_tut_10_geometry_review.ipynb\pdf`| Camera Models, Camera Matrix, Intrinsic and Extrinsic Parameters, Distortion Models, Camera Calibration, Homography Edge Cases, Epipolar Geometry, Essential/Fundamental Matrix, 8-point Algorithm |
 |`ee046746_tut_11_stereo_imaging.ipynb\pdf`| Triangulation, Disparity Maps, Stereo Concept, Stereo Rectification, Stereo Matching, Depth Smoothing, Point Cloud Visualization |
 |`ee046746_tut_12_3d_deep_learning.ipynb\pdf`| Time-of-Flight Cameras, 3D Representations, Voxnet, Multi-view CNNs, Point Clouds, PointNet, PointNet++, 3D Generative Models |
+|`ee046746_tut_13_deep_object_tracking.ipynb\pdf`| Object Detection vs Object Tracking, Detection Failure Cases, Motion Model, Visual Appearance Model, Detection-Based Vs. Detection-Free, Offline Vs. Online Tracking, Generic Object Tracking Using Regression Networks (GOTURN), Multi-Domain Convolutional Neural Network Tracker (MDNet), Deep Simple Online and Realtime Tracking (Deep SORT) |
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
