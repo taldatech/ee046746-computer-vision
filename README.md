@@ -19,7 +19,7 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 
 <h4 align="center">
     <a href="https://colab.research.google.com/github/taldatech/ee046746-computer-vision"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    <a href="https://nbviewer.jupyter.org/github/taldatech/ee046746-computer-vision/tree/master/"><img src="https://jupyter.org/assets/main-logo.svg" alt="Open In NBViewer"/></a>
+    <a href="https://nbviewer.jupyter.org/github/taldatech/ee046746-computer-vision/tree/master/"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg" alt="Open In NBViewer"/></a>
     <a href="https://mybinder.org/v2/gh/taldatech/ee046746-computer-vision/master"><img src="https://mybinder.org/badge_logo.svg" alt="Open In Binder"/></a>
 
 </h4>
@@ -68,7 +68,7 @@ You can view the tutorials online or download and run locally.
 
 Jupyter Nbviewer:
 
-[![nbviewer](https://jupyter.org/assets/main-logo.svg)](https://nbviewer.jupyter.org/github/taldatech/ee046746-computer-vision/tree/master/)
+[![nbviewer](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/taldatech/ee046746-computer-vision/tree/master/)
 
 
 Press on the "Open in Colab" button below to use Google Colab:
