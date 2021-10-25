@@ -57,23 +57,23 @@ You can view the tutorials online or download and run locally.
 
 Jupyter Nbviewer:
 
-[![nbviewer](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/taldatech/ee046746-computer-vision/tree/master/)
+[![nbviewer](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/HilaManor/ee046746-computer-vision/tree/master/)
 
 
 Press on the "Open in Colab" button below to use Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taldatech/ee046746-computer-vision)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HilaManor/ee046746-computer-vision)
 
 Or press on the "launch binder" button below to launch in Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taldatech/ee046746-computer-vision/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HilaManor/ee046746-computer-vision/master)
 
 Note: creating the Binder instance takes about ~5-10 minutes, so be patient
 
 ### Running Locally
 
 Press "Download ZIP" under the green button `Clone or download` or use `git` to clone the repository using the 
-following command: `git clone https://github.com/taldatech/ee046746-computer-vision.git` (in cmd/PowerShell in Windows or in the Terminal in Linux/Mac)
+following command: `git clone https://github.com/HilaManor/ee046746-computer-vision.git` (in cmd/PowerShell in Windows or in the Terminal in Linux/Mac)
 
 Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Installation instructions can be found in `Setting Up The Working Environment.pdf`.
 
