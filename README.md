@@ -19,9 +19,9 @@ Jupyter Notebook tutorials for the Technion's EE 046746 Computer Vision course
 Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-vision/tree/spring20">Spring 2020</a>, <a href="https://github.com/taldatech/ee046746-computer-vision">Spring 2021</a>
 
 <h4 align="center">
-    <a href="https://colab.research.google.com/github/taldatech/ee046746-computer-vision"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-    <a href="https://nbviewer.jupyter.org/github/taldatech/ee046746-computer-vision/tree/master/"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg" alt="Open In NBViewer"/></a>
-    <a href="https://mybinder.org/v2/gh/taldatech/ee046746-computer-vision/master"><img src="https://mybinder.org/badge_logo.svg" alt="Open In Binder"/></a>
+    <a href="https://colab.research.google.com/github/HilaManor/ee046746-computer-vision"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://nbviewer.jupyter.org/github/HilaManor/ee046746-computer-vision/tree/master/"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg" alt="Open In NBViewer"/></a>
+    <a href="https://mybinder.org/v2/gh/HilaManor/ee046746-computer-vision/master"><img src="https://mybinder.org/badge_logo.svg" alt="Open In Binder"/></a>
 
 </h4>
 
