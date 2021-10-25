@@ -1,0 +1,29 @@
+.rise-enabled .reveal section img {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
+}
+
+.rise-enabled .reveal section h1 img {
+    margin-left: none !important;
+    margin-right: none !important;
+    display: inline !important;
+}
+
+.rise-enabled .reveal section h2 img {
+    margin-left: none !important;
+    margin-right: none !important;
+    display: inline !important;
+}
+
+.rise-enabled .reveal section h3 img {
+    margin-left: none !important;
+    margin-right: none !important;
+    display: inline !important;
+}
+
+.rise-enabled .reveal section h4 img {
+    margin-left: none !important;
+    margin-right: none !important;
+    display: inline !important;
+}
