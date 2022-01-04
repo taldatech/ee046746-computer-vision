@@ -48,7 +48,8 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`ee046746_tut_07_alignment.ipynb\pdf`| Feature Matching, Parametric Transformations, Image Warping, Image Blending, Panorama Stitching, Kornia |
 |`ee046746_tut_08_deep_object_detection.ipynb\pdf`|Deep Object Detection, Localization, Sliding Windows, IoU, AP, Region-based Convolutional Neural Networks (R-CNN) Family, Fast/er R-CNN, Selective Search, Non-Maximum Supression (NMS), Region of Interest Pooling Layer (RoI), Region Proposal Network (RPN), Anchor boxes, Detectron2, You Only Look Once (YOLO) Family, YOLO V1-V4, Single Shot Multibox Detection (SSD) |
 |`ee046746_tut_09_geometry_review.ipynb\pdf`| Camera Models, Camera Matrix, Intrinsic and Extrinsic Parameters, Distortion Models, Camera Calibration, Homography Edge Cases, Epipolar Geometry, Essential/Fundamental Matrix, 8-point Algorithm |
-|`ee046746_tut_09_structure_from_motion.ipynb\pdf`| Pose Estimation, Triangulation, Reconstruction, Two-view Structure from Motion, Bundle Adjustment, Incremental Smoothing and Mapping|
+|`ee046746_tut_10_structure_from_motion.ipynb\pdf`| Pose Estimation, Triangulation, Reconstruction, Two-view Structure from Motion, Bundle Adjustment, Incremental Smoothing and Mapping|
+|`ee046746_tut_11_3d_deep_learning.ipynb\pdf`| Time-of-Flight Cameras, 3D Representations, Voxnet, Multi-view CNNs, Point Clouds, PointNet, PointNet++, 3D Generative Models |
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
