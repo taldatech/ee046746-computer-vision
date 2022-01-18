@@ -1,4 +1,8 @@
 /.ipynb_checkpoints
 /datasets
 /checkpoints
-/ee046746_tut_10_structure_from_motion.slides.html
+/tut9_camera_calib.npz
+/goturn.caffemodel
+/goturn.prototxt
+/ironman_mdnet.mp4
+/models
