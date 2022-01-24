@@ -50,7 +50,8 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`ee046746_tut_09_geometry_review.ipynb\pdf`| Camera Models, Camera Matrix, Intrinsic and Extrinsic Parameters, Distortion Models, Camera Calibration, Homography Edge Cases, Epipolar Geometry, Essential/Fundamental Matrix, 8-point Algorithm |
 |`ee046746_tut_10_structure_from_motion.ipynb\pdf`| Pose Estimation, Triangulation, Reconstruction, Two-view Structure from Motion, Bundle Adjustment, Incremental Smoothing and Mapping|
 |`ee046746_tut_11_3d_deep_learning.ipynb\pdf`| Time-of-Flight Cameras, 3D Representations, Voxnet, Multi-view CNNs, Point Clouds, PointNet, PointNet++, 3D Generative Models |
-|`ee046746_tut_12_Reflectometry.ipynb\pdf`| Radiometry, Computer Graphics Light Geometry, BRDFs (Specular and Lambertian), Shape from Shading |
+|`ee046746_tut_12_reflectometry.ipynb\pdf`| Radiometry, Computer Graphics, Light Geometry, BRDFs, Specular and Lambertian Surfaces, Shape from Shading (Photometric Stereo) |
+|`ee046746_tut_13_deep_object_tracking.ipynb\pdf`| Object Detection vs Object Tracking, Detection Failure Cases, Motion Model, Visual Appearance Model, Detection-Based Vs. Detection-Free, Offline Vs. Online Tracking, Generic Object Tracking Using Regression Networks (GOTURN), Multi-Domain Convolutional Neural Network Tracker (MDNet), Deep Simple Online and Realtime Tracking (Deep SORT) |
 =======
 
 ## Running The Notebooks
