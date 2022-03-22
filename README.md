@@ -43,6 +43,7 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`Setting Up The Working Environment.pdf`| Guide for installing Anaconda locally with Python 3 and PyTorch, integration with PyCharm and using GPU on Google Colab |
 |`ee046746_tut_01_intro_image_processing_python.ipynb\pdf`| Python basics: NumPy, Matplotlib, OpenCV basics: Reading and Writing Images, Basic Image Manipulations, Image Processing 101: Thresholding, Blurring |
 |`ee046746_tut_01_2_deep_learning_pytorch_basics.ipynb\pdf`| Deep Learning and PyTorch basics, MNIST, Fashion-MNIST, MULTI-layer Perceptron (MLP), Fully-Connected (FC) |
+|`ee046746_tut_02_probabilistic_discriminative_learning.ipynb\pdf`| Intro to Machine Learning, Discriminative vs Generative Models, Probabilistic Discriminative Models |
 
 
 ## Running The Notebooks
