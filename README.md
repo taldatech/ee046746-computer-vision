@@ -8,7 +8,7 @@ Technion EE 046746 - Computer Vision
 </h1>
   <p align="center">
     <a href="https://taldatech.github.io">Tal Daniel</a> •
-    Moshe Kimhi • 
+    <a href="https://github.com/mkimhi">Moshe Kimhi</a> • 
     <a href="https://github.com/HilaManor">Hila Manor</a> •
     <a href="https://eliasnehme.github.io/">Elias Nehme</a> •
     <a href="https://github.com/dahliau">Dalia Urbach</a> •
