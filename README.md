@@ -46,7 +46,8 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`ee046746_tut_02_probabilistic_discriminative_learning.ipynb\pdf`| Intro to Machine Learning, Discriminative vs Generative Models, Probabilistic Discriminative Models |
 |`ee046746_tut_03_04_convolutional_neural_networks.ipynb\pdf`| 2D Convolution (Cross-corelation), Convolution-based Classification, Convolutional Neural Networks (CNNs), Regularization and Overfitting, Dropout, Data Augmentation, SVHN dataset, Visualizing Filters, The history of CNNs, Applications of CNNs, The problems with CNNs (adversarial attacks, poor generalization, fairness-undesirable biases) |
 |`ee046746_tut_03_04_appndx_visualizing_cnn_filters.ipynb\pdf`| Appendix - How to visualize CNN filters and filter activations given image with PyTorch |
-
+|`ee046746_tut_05_deep_object_detection.ipynb\pdf`| Deep Object Detection, Localization, Sliding Windows, Intersection over Union (IoU), Average Precision (AP), Region-based Convolutional Neural Networks (R-CNN) Family, Fast/er R-CNN, Selective Search, Non-Maximum Supression (NMS), Region of Interest Pooling Layer (RoI), Region Proposal Network (RPN), Anchor boxes, Detectron2, You Only Look Once (YOLO) Family, YOLO V1-V4, Single Shot Multibox Detection (SSD) |
+|`ee046746_tut_06_deep_semantic_segmentation.ipynb\pdf	`| Semantic Segmentation, IoU, AP, PASCAL Visual Object Classes, Common Objects in COntext (COCO), Fully Convolutional Network (FCN),Up-Convolution / Transposed-Convolution, Skip connections, Pyramid Scene Parsing Network (PSPNet), 1x1 convolution, Mask R-CNN, DeepLab, Atrous convolution, Conditional Random Field (CRF) |
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
