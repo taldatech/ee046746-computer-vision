@@ -49,7 +49,7 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`ee046746_tut_05_deep_object_detection.ipynb\pdf`| Deep Object Detection, Localization, Sliding Windows, Intersection over Union (IoU), Average Precision (AP), Region-based Convolutional Neural Networks (R-CNN) Family, Fast/er R-CNN, Selective Search, Non-Maximum Supression (NMS), Region of Interest Pooling Layer (RoI), Region Proposal Network (RPN), Anchor boxes, Detectron2, You Only Look Once (YOLO) Family, YOLO V1-V4, Single Shot Multibox Detection (SSD) |
 |`ee046746_tut_06_deep_semantic_segmentation.ipynb\pdf`| Semantic Segmentation, IoU, AP, PASCAL Visual Object Classes, Common Objects in COntext (COCO), Fully Convolutional Network (FCN),Up-Convolution / Transposed-Convolution, Skip connections, Pyramid Scene Parsing Network (PSPNet), 1x1 convolution, Mask R-CNN, DeepLab, Atrous convolution, Conditional Random Field (CRF) |
 |`ee046746_tut_07_deep_object_tracking.ipynb\pdf` | Object Detection vs Object Tracking, Detection Failure Cases, Motion Model, Visual Appearance Model, Detection-Based Vs. Detection-Free, Offline Vs. Online Tracking, Generic Object Tracking Using Regression Networks (GOTURN), Multi-Domain Convolutional Neural Network Tracker (MDNet), Deep Simple Online and Realtime Tracking (Deep SORT) |
-|`ee046746_tut_08_homography_alignment_panoramas.ipynb\pdf` | Feature Matching, Parametric Transformations, Image Warping, Image Blending, Panorama Stitching, Kornia |
+|`ee046746_tut_08_homography_alignment_panoramas.ipynb\pdf` | Feature Matching, Parametric Transformations, RANSAC, Image Warping, Image Blending, Panorama Stitching, Kornia |
 
 
 ## Running The Notebooks
