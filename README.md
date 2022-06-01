@@ -51,7 +51,7 @@ Previous semesters: <a href="https://github.com/taldatech/ee046746-computer-visi
 |`ee046746_tut_07_deep_object_tracking.ipynb\pdf` | Object Detection vs Object Tracking, Detection Failure Cases, Motion Model, Visual Appearance Model, Detection-Based Vs. Detection-Free, Offline Vs. Online Tracking, Generic Object Tracking Using Regression Networks (GOTURN), Multi-Domain Convolutional Neural Network Tracker (MDNet), Deep Simple Online and Realtime Tracking (Deep SORT) |
 |`ee046746_tut_08_edge_and_line_detection.ipynb\pdf` | Edge and Line detection, Canny, Hough transform, RANSAC, and SCNN |	
 |`ee046746_tut_09_homography_alignment_panoramas.ipynb\pdf` | Feature Matching, Parametric Transformations, RANSAC, Image Warping, Image Blending, Panorama Stitching, Kornia |
-
+|`ee046746_tut_10_geometry_review.ipynb\pdf`|Camera Models, Camera Matrix, Intrinsic and Extrinsic Parameters, Distortion Models, Camera Calibration, Homography Edge Cases, Epipolar Geometry, Essential/Fundamental Matrix, 8-point Algorithm|
 
 ## Running The Notebooks
 You can view the tutorials online or download and run locally.
