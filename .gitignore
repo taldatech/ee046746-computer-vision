@@ -1,1 +1,6 @@
 /.ipynb_checkpoints
+/datasets
+/checkpoints
+/models
+/goturn.caffemodel
+/goturn.prototxt
